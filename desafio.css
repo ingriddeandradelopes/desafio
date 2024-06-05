@@ -12,6 +12,10 @@
     flex-direction: column;
     flex-wrap: gap;
  }
+
+ h1{
+    color: #00FF7F;
+ }
  nav{
     
  }
