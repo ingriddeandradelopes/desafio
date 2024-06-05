@@ -17,5 +17,28 @@
     color: #00FF7F;
  }
  nav{
-    
+    height: 50px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
  }
+
+ a{
+    text-decoration: none;
+    color: lime;
+ }
+  a:hover{
+    border-bottom: 4px solid black;
+    transition: 0.3s ali;
+    border-radius: 2px;
+    transform: scale(1.1);
+  }
+
+  .btn{
+    background-color: blue;
+    border: 10px;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+  }
